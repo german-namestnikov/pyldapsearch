@@ -1,4 +1,9 @@
 # Changelog
+
+## [v0.1.2-1] - 11/27/2023
+## Added
+- `-scope` to allow operator choise ldap scope to query 
+
 ## [v0.1.2] - 9/26/2022
 ## Fixed
 - LDAPInvalidFilterError is now caught
